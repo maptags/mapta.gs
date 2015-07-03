@@ -101,9 +101,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'prv_maptag',
-	'password' => 'kh361010!',
+	'hostname' => '127.0.0.1:3306',
+	'username' => 'root',
+	'password' => 'root',
 	'database' => 'prv_maptag',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
