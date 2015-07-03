@@ -1,5 +1,6 @@
 <?php
 /**
+ * Thejan
  * CodeIgniter
  *
  * An open source application development framework for PHP 5.2.4 or newer
