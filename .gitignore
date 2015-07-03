@@ -8,3 +8,5 @@
 !*/cache/.htaccess
 
 
+
+application/config/database.php
